@@ -1,0 +1,21 @@
+.col-md-3 {
+  border: 1px solid grey;
+  margin-right: 90px;
+}
+
+.beach {
+  background-image: url(../img/beach.jpg);
+  opacity: 0.5;
+}
+
+.beach h2, ul {
+  opacity: 1.0;
+}
+
+.mount {
+  background-image: url(../img/mount.jpeg);
+}
+
+.snow {
+  background-image: url(../img/snow.gif);
+}
